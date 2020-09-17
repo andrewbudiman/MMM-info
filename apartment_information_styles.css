@@ -1,0 +1,30 @@
+.information-table {
+  /* DEBUG border: 3px solid yellow; */
+  position: relative;
+  top: 7%;
+}
+
+.information-key {
+  /* DEBUG */
+  /* border: 3px solid blue;*/
+  position: relative;
+  left: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: right;
+  vertical-align: top;
+  width: 40%;
+}
+
+.information-value {
+  /* DEBUG border: 3px solid red;*/
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: left;
+  vertical-align: top;
+  width: 60%;
+}
